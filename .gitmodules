@@ -1,0 +1,9 @@
+[submodule "smartponix-app"]
+	path = smartponix-app
+	url = https://github.com/ntroast/smartponix-app.git
+[submodule "smartponix-cloud"]
+	path = smartponix-cloud
+	url = https://github.com/willysamz21/smartponix-cloud.git
+[submodule "Autoponics"]
+	path = Autoponics
+	url = https://github.com/willysamz21/Autoponics.git
